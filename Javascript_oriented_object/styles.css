@@ -1,0 +1,15 @@
+.card-header {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar.navbar-light {
+    display: flex;
+    justify-content: center;
+}
+
+.btn.btn-primary {
+    display: flex;
+    display: inline-block;
+}
